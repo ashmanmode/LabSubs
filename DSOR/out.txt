@@ -1,0 +1,13 @@
+Enter the current board config
+Fill With X/O and - for blank
+Assume that player X have the next chance
+
+O - X 
+X - - 
+X O O 
+
+Next Move ----> 
+
+O - X 
+X X - 
+X O O 
